@@ -9,7 +9,7 @@
 "dependencies": {
     "knex": "~0.5.7",
     "bookshelf": "~0.6.4",
-    "sqlite3": "~3.0.10",
+    "sqlite3": "~3.0.5",
    "express": "~4.0.0",
     "lodash": "~3.5.0",
      "body-parser": "^1.5.2",
